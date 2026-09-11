@@ -4,9 +4,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskarsrivastava18/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/bhaskarsrivastava18/LEETCODE_SOLUTIONS/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/bhaskarsrivastava18/LEETCODE_SOLUTIONS/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskarsrivastava18/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskarsrivastava18/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskarsrivastava18/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskarsrivastava18/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhaskarsrivastava18/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
